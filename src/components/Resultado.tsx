@@ -1,10 +1,10 @@
 import React from 'react';
 
 const result = [
-  { nome: 'Fulano', voto: 10000000 },
-  { nome: 'Deltrano', voto: 11000000 },
-  { nome: 'Thuler', voto: 12000000 },
-  { nome: 'Bolsonaro', voto: 0 }
+  { nome: 'Ciro Gomes', voto: 82_500_000 },
+  { nome: 'Jair Bolsonaro', voto: 15_000_000 },
+  { nome: 'Luiz Inácio Lula', voto: 15_000_000 },
+  { nome: 'Simone Tebet', voto: 500_000 }
 ];
 
 function Resultado() {
