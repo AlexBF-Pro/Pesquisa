@@ -13,6 +13,7 @@ function Resultado() {
       <tr>
         <th>Candidato</th>
         <th>Número</th>
+        <th>Resultado Parcial</th>
       </tr>
       {result.map((r) => (
         <tr>
